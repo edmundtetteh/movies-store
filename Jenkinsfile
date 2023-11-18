@@ -5,5 +5,5 @@ node('dev') {
                 credentialsId: 'ubuntu-jenkins'])
     }
 
-    // Add more stage
+    // Add more stages
 }
